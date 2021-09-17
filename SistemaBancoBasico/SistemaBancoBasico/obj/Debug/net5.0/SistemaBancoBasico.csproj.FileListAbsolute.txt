@@ -1,0 +1,16 @@
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\bin\Debug\net5.0\SistemaBancoBasico.exe
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\bin\Debug\net5.0\SistemaBancoBasico.deps.json
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\bin\Debug\net5.0\SistemaBancoBasico.runtimeconfig.json
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\bin\Debug\net5.0\SistemaBancoBasico.runtimeconfig.dev.json
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\bin\Debug\net5.0\SistemaBancoBasico.dll
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\bin\Debug\net5.0\ref\SistemaBancoBasico.dll
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\bin\Debug\net5.0\SistemaBancoBasico.pdb
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\obj\Debug\net5.0\SistemaBancoBasico.csprojAssemblyReference.cache
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\obj\Debug\net5.0\SistemaBancoBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\obj\Debug\net5.0\SistemaBancoBasico.AssemblyInfoInputs.cache
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\obj\Debug\net5.0\SistemaBancoBasico.AssemblyInfo.cs
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\obj\Debug\net5.0\SistemaBancoBasico.csproj.CoreCompileInputs.cache
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\obj\Debug\net5.0\SistemaBancoBasico.dll
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\obj\Debug\net5.0\ref\SistemaBancoBasico.dll
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\obj\Debug\net5.0\SistemaBancoBasico.pdb
+C:\Users\Lenin Franco\Downloads\Programas C#\SistemaBancoBasico\SistemaBancoBasico\obj\Debug\net5.0\SistemaBancoBasico.genruntimeconfig.cache
